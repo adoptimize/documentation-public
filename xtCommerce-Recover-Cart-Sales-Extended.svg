@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="44cm" height="32cm" viewBox="98 119 863 623" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="29cm" height="32cm" viewBox="98 119 563 623" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="190" y1="140" x2="214.158" y2="172.211"/>
     <polygon style="fill: #000000" points="218.658,178.211 208.658,173.211 214.158,172.211 216.658,167.211 "/>
@@ -9,11 +9,6 @@
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="374" y="241">
     <tspan x="374" y="241"></tspan>
   </text>
-  <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="380" y1="387" x2="349.724" y2="385.486"/>
-    <polygon style="fill: #000000" points="342.233,385.112 352.47,380.617 349.724,385.486 351.971,390.605 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="342.233,385.112 352.47,380.617 349.724,385.486 351.971,390.605 "/>
-  </g>
   <g>
     <rect style="fill: #ffffff" x="100" y="180" width="240" height="70"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="100" y="180" width="240" height="70"/>
@@ -99,18 +94,11 @@
   </g>
   <ellipse style="fill: #000000" cx="190" cy="130" rx="10" ry="10"/>
   <g>
-    <rect style="fill: #ffffff" x="380" y="360" width="280" height="54"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="380" y="360" width="280" height="54"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="520" y="390.9">
-      <tspan x="520" y="390.9">_GetCustomersWithStopWordsInEmail</tspan>
-    </text>
-  </g>
-  <g>
-    <rect style="fill: #ffffff" x="680" y="440" width="276.8" height="54"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="680" y="440" width="276.8" height="54"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="818.4" y="462.9">
-      <tspan x="818.4" y="462.9">_GetManufactuersCustomersId</tspan>
-      <tspan x="818.4" y="478.9">select domains and search in baskets</tspan>
+    <rect style="fill: #ffffff" x="380" y="440" width="276.8" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="380" y="440" width="276.8" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="518.4" y="462.9">
+      <tspan x="518.4" y="462.9">_GetManufactuersCustomersId</tspan>
+      <tspan x="518.4" y="478.9">select domains and search in baskets</tspan>
     </text>
   </g>
   <g>
@@ -135,9 +123,9 @@
     </text>
   </g>
   <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="680" y1="467" x2="529.242" y2="417.061"/>
-    <polygon style="fill: #000000" points="522.123,414.703 533.188,413.101 529.242,417.061 530.043,422.594 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="522.123,414.703 533.188,413.101 529.242,417.061 530.043,422.594 "/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="380" y1="467" x2="345.593" y2="417.97"/>
+    <polygon style="fill: #000000" points="341.284,411.83 351.121,417.144 345.593,417.97 342.936,422.888 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="341.284,411.83 351.121,417.144 345.593,417.97 342.936,422.888 "/>
   </g>
   <g>
     <rect style="fill: #ffffff" x="100" y="440" width="240" height="54"/>
@@ -180,29 +168,29 @@
     <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="302.236,719.972 312.173,714.847 309.735,719.878 312.298,724.847 "/>
   </g>
   <g>
-    <rect style="fill: #ffffff" x="680" y="280" width="280" height="54"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="680" y="280" width="280" height="54"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="820" y="302.9">
-      <tspan x="820" y="302.9">_GetCustomersWithStopWordsInBasket</tspan>
-      <tspan x="820" y="318.9">defined list of bad words in email</tspan>
+    <rect style="fill: #ffffff" x="380" y="280" width="280" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="380" y="280" width="280" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="520" y="302.9">
+      <tspan x="520" y="302.9">_GetCustomersWithStopWordsInBasket</tspan>
+      <tspan x="520" y="318.9">defined list of bad words in email</tspan>
     </text>
   </g>
   <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="680" y1="307" x2="529.242" y2="356.939"/>
-    <polygon style="fill: #000000" points="522.123,359.297 530.043,351.406 529.242,356.939 533.188,360.899 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="522.123,359.297 530.043,351.406 529.242,356.939 533.188,360.899 "/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="380" y1="307" x2="345.865" y2="352.229"/>
+    <polygon style="fill: #000000" points="341.347,358.215 343.38,347.221 345.865,352.229 351.362,353.245 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="341.347,358.215 343.38,347.221 345.865,352.229 351.362,353.245 "/>
   </g>
   <g>
-    <rect style="fill: #ffffff" x="680" y="360" width="276.8" height="54"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="680" y="360" width="276.8" height="54"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="818.4" y="382.9">
-      <tspan x="818.4" y="382.9">_GetSuppliersCustomersId</tspan>
-      <tspan x="818.4" y="398.9">selects email addresses from suppliers</tspan>
+    <rect style="fill: #ffffff" x="380" y="360" width="276.8" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="380" y="360" width="276.8" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="518.4" y="382.9">
+      <tspan x="518.4" y="382.9">_GetSuppliersCustomersId</tspan>
+      <tspan x="518.4" y="398.9">selects email addresses from suppliers</tspan>
     </text>
   </g>
   <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="680" y1="387" x2="669.736" y2="387"/>
-    <polygon style="fill: #000000" points="662.236,387 672.236,382 669.736,387 672.236,392 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="662.236,387 672.236,382 669.736,387 672.236,392 "/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="380" y1="387" x2="349.724" y2="385.486"/>
+    <polygon style="fill: #000000" points="342.233,385.112 352.47,380.617 349.724,385.486 351.971,390.605 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="342.233,385.112 352.47,380.617 349.724,385.486 351.971,390.605 "/>
   </g>
 </svg>
