@@ -1,4 +1,5 @@
 # documentation-public
+# this repository will hold some flowcharts from recent projects for anybody who is intrested in what we do
 This repository holds SVG's from current jobs to be shown on a webpage or for your development.
 We just started with documenting like this, so pleas don't judge to hard on us
 
