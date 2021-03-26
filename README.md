@@ -16,6 +16,11 @@ the public URL for a http - request is
  
    https://raw.githubusercontent.com/adoptimize/documentation-public/master/xtCommerce-Recover-Cart-Sales-Extended.svg?sanitize=true
 
+# js: onclick="window.open(this.src)"
+To show the svg in an interface add this attr. to your TAG ;)
+
+
+
 have fun and let us know when things are really bad
 
 info@adoptimize.de
