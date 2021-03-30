@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="30cm" height="28cm" viewBox="323 -16 592 543" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="616.505" y1="155.782" x2="616.032" y2="169.906"/>
+    <polygon style="fill: #000000" points="615.781,177.402 611.119,167.24 616.032,169.906 621.113,167.575 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="615.781,177.402 611.119,167.24 616.032,169.906 621.113,167.575 "/>
+  </g>
+  <ellipse style="fill: #000000" cx="616.872" cy="144.841" rx="10" ry="10"/>
+  <g>
+    <polygon style="fill: #ffffff" points="617.707,299 657.813,339 617.707,379 577.6,339 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="617.707,299 657.813,339 617.707,379 577.6,339 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="617.707" y="342.9">
+      <tspan x="617.707" y="342.9"></tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="657.813" y1="339" x2="747.664" y2="339.902"/>
+    <polygon style="fill: #000000" points="755.164,339.978 745.114,344.877 747.664,339.902 745.215,334.877 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="755.164,339.978 745.114,344.877 747.664,339.902 745.215,334.877 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="663" y="329">
+    <tspan x="663" y="329">[file exists]</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="757.4" y="319" width="147.2" height="42"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="757.4" y="319" width="147.2" height="42"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="831" y="343.9">
+      <tspan x="831" y="343.9">taskkill firefox</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="577.6" y1="339" x2="501.962" y2="338.066"/>
+    <polygon style="fill: #000000" points="494.463,337.974 504.524,333.097 501.962,338.066 504.401,343.097 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="494.463,337.974 504.524,333.097 501.962,338.066 504.401,343.097 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="340" y="318" width="151.228" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="340" y="318" width="151.228" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="415.614" y="340.9">
+      <tspan x="415.614" y="340.9">psexec firefox</tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="498.6" y="324.9">
+    <tspan x="498.6" y="324.9">[file not exists]</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="379.625" y="401" width="153.75" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="379.625" y="401" width="153.75" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="456.5" y="423.9">
+      <tspan x="456.5" y="423.9">write logs\firefox.pid</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="415.614" y1="356" x2="449.953" y2="393.794"/>
+    <polygon style="fill: #000000" points="454.996,399.345 444.571,395.306 449.953,393.794 451.972,388.581 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="454.996,399.345 444.571,395.306 449.953,393.794 451.972,388.581 "/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="619.6" cy="423" rx="15" ry="15"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="619.6" cy="423" rx="15" ry="15"/>
+    <ellipse style="fill: #000000" cx="619.6" cy="423" rx="10" ry="10"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="831" y1="361" x2="643.884" y2="420.069"/>
+    <polygon style="fill: #000000" points="636.732,422.327 644.763,414.548 643.884,420.069 647.774,424.085 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="636.732,422.327 644.763,414.548 643.884,420.069 647.774,424.085 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="533.375" y1="420" x2="594.873" y2="422.59"/>
+    <polygon style="fill: #000000" points="602.366,422.906 592.164,427.481 594.873,422.59 592.585,417.49 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="602.366,422.906 592.164,427.481 594.873,422.59 592.585,417.49 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="638.658" y="167.386">
+    <tspan x="638.658" y="167.386">firefox.bat @param string</tspan>
+  </text>
+  <g>
+    <polygon style="fill: #ffffff" points="615.707,179.636 655.813,219.636 615.707,259.636 575.6,219.636 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="615.707,179.636 655.813,219.636 615.707,259.636 575.6,219.636 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="615.707" y="223.536">
+      <tspan x="615.707" y="223.536"></tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="525.206" y="189.887">
+    <tspan x="525.206" y="189.887">@param </tspan>
+    <tspan x="525.206" y="205.887">start</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="575.6" y1="219.636" x2="530.735" y2="218.684"/>
+    <polygon style="fill: #000000" points="523.237,218.525 533.341,213.738 530.735,218.684 533.128,223.736 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="523.237,218.525 533.341,213.738 530.735,218.684 533.128,223.736 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="479.364,180.796 519.47,220.796 479.364,260.796 439.257,220.796 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="479.364,180.796 519.47,220.796 479.364,260.796 439.257,220.796 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="479.364" y="224.696">
+      <tspan x="479.364" y="224.696"></tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="473.575" y="288.399">
+    <tspan x="473.575" y="288.399">[file not exists]</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="479.364" y1="260.796" x2="422.86" y2="311.498"/>
+    <polygon style="fill: #000000" points="417.278,316.507 421.382,306.107 422.86,311.498 428.06,313.549 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="417.278,316.507 421.382,306.107 422.86,311.498 428.06,313.549 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="615.707" y1="259.636" x2="617.213" y2="289.276"/>
+    <polygon style="fill: #000000" points="617.593,296.767 612.092,287.033 617.213,289.276 622.079,286.526 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="617.593,296.767 612.092,287.033 617.213,289.276 622.079,286.526 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="341.049" y="-3.51923">
+    <tspan x="341.049" y="-3.51923">Target:</tspan>
+    <tspan x="341.049" y="12.4808">Start/Stop Firefox once a day by cron-tasks to get updates installed</tspan>
+    <tspan x="341.049" y="28.4808"></tspan>
+    <tspan x="341.049" y="44.4808">Current Situation:</tspan>
+    <tspan x="341.049" y="60.4808">The Brwoser hangs due to missing updates</tspan>
+    <tspan x="341.049" y="76.4808"></tspan>
+    <tspan x="341.049" y="92.4808">Used Tech:</tspan>
+    <tspan x="341.049" y="108.481">Install/Use psexec, Except the simple *.bat file all written in PHP to stay in the framework</tspan>
+  </text>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 439.257,220.796 A 155.386,155.386 0 1 0 615.129,446.633"/>
+    <polygon style="fill: #000000" points="618.634,440.017 618.825,451.195 615.395,446.781 609.806,446.877 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="618.634,440.017 618.825,451.195 615.395,446.781 609.806,446.877 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="442.461" y="512.077">
+    <tspan x="442.461" y="512.077">[file exists]</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="554.797" y="225.124" width="123.2" height="14.9"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="554.797" y="237.024">
+      <tspan x="554.797" y="237.024">logs\firefox.pid</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="555.982" y="352.18" width="123.2" height="14.9"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="555.982" y="364.08">
+      <tspan x="555.982" y="364.08">logs\firefox.pid</tspan>
+    </text>
+  </g>
+</svg>
