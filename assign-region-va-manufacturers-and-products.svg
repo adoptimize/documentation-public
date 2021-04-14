@@ -349,4 +349,15 @@
     <polygon style="fill: #0000ff" points="868.696,493.879 874.569,484.366 875.074,489.933 879.83,492.87 "/>
     <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0000ff" points="868.696,493.879 874.569,484.366 875.074,489.933 879.83,492.87 "/>
   </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" x1="574.444" y1="607.436" x2="456.26" y2="579.692"/>
+    <polygon style="fill: #ff0000" points="448.958,577.978 459.836,575.396 456.26,579.692 457.551,585.131 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" points="448.958,577.978 459.836,575.396 456.26,579.692 457.551,585.131 "/>
+  </g>
+  <text font-size="9.03097" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="578.648" y="610.8">
+    <tspan x="578.648" y="610.8">a matching algo counts the number of matches</tspan>
+    <tspan x="578.648" y="622.089">a region search in the DB has and either exact</tspan>
+    <tspan x="578.648" y="633.378">machtes or matches with have exceptionally more</tspan>
+    <tspan x="578.648" y="644.666">points than other matches within the search</tspan>
+  </text>
 </svg>
