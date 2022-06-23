@@ -1,0 +1,67 @@
+#
+# Thu Jun 23 15:27:52 CEST 2022 Mathias E. Koch  <mk@adoptimize.de>
+#
+############################################################
+# HOW SAMBA IS USED, INSTALLED AND ACTIVATED ON REBOOT
+############################################################
+
+1. SAMBA SERVER -- Enter the new mountpoint / samba share directory in samba conf at the bottm on the server
+  we us 101 - static server for our sambaserver who is the source of the files
+
+        [import]
+        comment= Network Shared Folder for import lables and stuff
+        path = /var/www/html/import
+        force user = import
+        force group = smbgroup
+        create mask = 0664
+        force create mode = 0664
+        directory mask = 0775
+        force directory mode = 0775
+        public = yes
+        read only = no
+
+2. SAMBA SERVER -- Samba User and Group on the SERVER (101)
+  make shure that the group "smbgroup" exists otherwise create
+    #>groupadd --system smbgroup
+
+  create the user (smbuser):
+    #>useradd --system --no-create-home --group smbgroup -s /bin/false smbuser
+  create a password for the user (don use to many special chars.. esp. `=` could be a problem later)
+    #>smbpasswd -a smbusr
+
+
+  make shure the folder has the right user
+    #>chmod -R g+w ~/sambashare
+
+  restart the samba servver
+    #>systemctl restart smbd
+
+  check the status of the samba server
+    #>systemctl status smbd
+
+  so far this was good documented here: https://www.makeuseof.com/set-up-network-shared-folder-ubuntu-with-samba/
+
+3. LOCAL MACHINE -- Mount the device on the client machine to a folder of your choice
+  mount the device / folder for testing
+    #>mount.cifs //94.247.150.101/images /var/www/vhosts/h-h-shop.com/httpdocs/images_samba/ -o vers=2.0,user=smbuser
+  check if the mount was successful
+    #>findmnt
+
+  you can unmount the device with
+    #>umount //94.247.150.101/images
+  and check
+    #>findmnt
+
+  make the mountpont permanent
+  create a user-password file eg. in /etc/samba/.smbcredentials_smbuser
+      username=images
+      password=[USER PASSWORD HERE ..]
+  and and edit etc fstab
+    //94.247.150.101/images /var/www/vhosts/h-h-shop.com/httpdocs/import cifs credentials=/etc/samba/.smbcredentials_smbusr,vers=2.0  0 0
+  #>findmnt
+
+all done .. and fine
+
+
+
+
