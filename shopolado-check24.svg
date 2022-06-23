@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="104cm" height="43cm" viewBox="-359 4 2078 856" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="507.9" y="119.5" width="229.2" height="102"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="507.9" y="119.5" width="229.2" height="102"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="622.5" y="142.4">
+      <tspan x="622.5" y="142.4">check24</tspan>
+      <tspan x="622.5" y="158.4">call importFilesDir</tspan>
+      <tspan x="622.5" y="174.4">intervall unkonwn</tspan>
+      <tspan x="622.5" y="190.4">Lookup inventory (delta update)</tspan>
+      <tspan x="622.5" y="206.4">Lookup Products </tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="622.893,265.893 671,310.447 622.893,355 574.787,310.447 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="622.893,265.893 671,310.447 622.893,355 574.787,310.447 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="622.893" y="314.347">
+      <tspan x="622.893" y="314.347"></tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="574.787,310.447 574.787,310 461.407,310 461.407,338.364 "/>
+    <polygon style="fill: #000000" points="461.407,345.864 456.407,335.864 461.407,338.364 466.407,335.864 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="461.407,345.864 456.407,335.864 461.407,338.364 466.407,335.864 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="458" y="297">
+    <tspan x="458" y="297">[Request Products]</tspan>
+  </text>
+  <g>
+    <polygon style="fill: #ffffff" points="461.407,348.1 509.513,392.653 461.407,437.207 413.3,392.653 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="461.407,348.1 509.513,392.653 461.407,437.207 413.3,392.653 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="461.407" y="396.553">
+      <tspan x="461.407" y="396.553"></tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="413.3,392.653 413.3,391.85 296.936,391.85 296.936,420.214 "/>
+    <polygon style="fill: #000000" points="296.936,427.714 291.936,417.714 296.936,420.214 301.936,417.714 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="296.936,427.714 291.936,417.714 296.936,420.214 301.936,417.714 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="271.756" y="380.939">
+    <tspan x="271.756" y="380.939">[File older than/missing]</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="200.15" y="430.75" width="194.95" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="200.15" y="430.75" width="194.95" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="297.625" y="453.65">
+      <tspan x="297.625" y="453.65">getPlatformProductsFeeds </tspan>
+      <tspan x="297.625" y="469.65">Products-table</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 60 433.667 C 76,423.417 84,420 100,420 C 116,420 124,423.417 140,433.667 L 140,488.333 C 124,498.583 116,502 100,502 C 84,502 76,498.583 60,488.333 L 60,433.667z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 60 433.667 C 76,423.417 84,420 100,420 C 116,420 124,423.417 140,433.667 L 140,488.333 C 124,498.583 116,502 100,502 C 84,502 76,498.583 60,488.333 L 60,433.667"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 60 433.667 C 76,443.917 84,447.333 100,447.333 C 116,447.333 124,443.917 140,433.667"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="100" y="471.833">
+      <tspan x="100" y="471.833"></tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="190.419" y1="458.066" x2="150.723" y2="459.354"/>
+    <polygon style="fill: #000000" points="197.915,457.823 188.083,463.144 190.419,458.066 187.758,453.149 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="197.915,457.823 188.083,463.144 190.419,458.066 187.758,453.149 "/>
+    <polygon style="fill: #000000" points="143.226,459.597 153.059,454.276 150.723,459.354 153.383,464.27 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="143.226,459.597 153.059,454.276 150.723,459.354 153.383,464.27 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="513.49" y="680.168" width="202.85" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="513.49" y="680.168" width="202.85" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="614.915" y="703.068">
+      <tspan x="614.915" y="703.068">echo feed and send</tspan>
+      <tspan x="614.915" y="719.068">download header</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="297.625" y1="484.75" x2="297.149" y2="570.754"/>
+    <polygon style="fill: #000000" points="297.107,578.254 292.163,568.227 297.149,570.754 302.162,568.282 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="297.107,578.254 292.163,568.227 297.149,570.754 302.162,568.282 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="509.513,392.653 509.513,393.089 529.34,393.089 529.34,575.241 "/>
+    <polygon style="fill: #000000" points="529.34,582.741 524.34,572.741 529.34,575.241 534.34,572.741 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="529.34,582.741 524.34,572.741 529.34,575.241 534.34,572.741 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffa500" x="213.12" y="580.49" width="167.95" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="213.12" y="580.49" width="167.95" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="297.095" y="603.39">
+      <tspan x="297.095" y="603.39">write check24_product</tspan>
+      <tspan x="297.095" y="619.39">able in file</tspan>
+    </text>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="512.431" y="380.625">
+    <tspan x="512.431" y="380.625">[File is new]</tspan>
+  </text>
+  <ellipse style="fill: #000000" cx="623.171" cy="69.5446" rx="10" ry="10"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="615.464" cy="785.146" rx="15" ry="15"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="615.464" cy="785.146" rx="15" ry="15"/>
+    <ellipse style="fill: #000000" cx="615.464" cy="785.146" rx="10" ry="10"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="614.915" y1="734.168" x2="615.315" y2="760.411"/>
+    <polygon style="fill: #000000" points="615.43,767.911 610.278,757.988 615.315,760.411 620.277,757.835 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="615.43,767.911 610.278,757.988 615.315,760.411 620.277,757.835 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="623.171" y1="79.5446" x2="622.664" y2="109.765"/>
+    <polygon style="fill: #000000" points="622.538,117.264 617.706,107.182 622.664,109.765 627.705,107.35 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="622.538,117.264 617.706,107.182 622.664,109.765 627.705,107.35 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="682.799" y="296.32">
+    <tspan x="682.799" y="296.32">[Request Inventory]</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="671,310.447 671,310.483 812.896,310.483 812.896,332.372 "/>
+    <polygon style="fill: #000000" points="812.896,339.872 807.896,329.872 812.896,332.372 817.896,329.872 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="812.896,339.872 807.896,329.872 812.896,332.372 817.896,329.872 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="813.066,348.67 861.173,393.223 813.066,437.776 764.959,393.223 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="813.066,348.67 861.173,393.223 813.066,437.776 764.959,393.223 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="813.066" y="397.123">
+      <tspan x="813.066" y="397.123"></tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="764.959,393.223 764.959,393.089 701.28,393.089 701.28,572.385 "/>
+    <polygon style="fill: #000000" points="701.28,579.885 696.28,569.885 701.28,572.385 706.28,569.885 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="701.28,579.885 696.28,569.885 701.28,572.385 706.28,569.885 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="859.35" y="376.254">
+    <tspan x="859.35" y="376.254">[File older than/missing]</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="861.173,393.223 861.173,391.923 975.949,391.923 975.949,415.748 "/>
+    <polygon style="fill: #000000" points="975.949,423.248 970.949,413.248 975.949,415.748 980.949,413.248 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="975.949,423.248 970.949,413.248 975.949,415.748 980.949,413.248 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="649.261" y="372.47">
+    <tspan x="649.261" y="372.47">[File is new &lt;30min]</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="662.505" y="582.121" width="77.55" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="662.505" y="582.121" width="77.55" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="701.28" y="605.021">
+      <tspan x="701.28" y="605.021">read File</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="701.28" y1="620.121" x2="622.909" y2="674.61"/>
+    <polygon style="fill: #000000" points="616.751,678.891 622.107,669.077 622.909,674.61 627.816,677.288 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="616.751,678.891 622.107,669.077 622.909,674.61 627.816,677.288 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="857.224" y="425.484" width="237.45" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="857.224" y="425.484" width="237.45" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="975.949" y="448.384">
+      <tspan x="975.949" y="448.384">getPlatformInventoryFeeds </tspan>
+      <tspan x="975.949" y="464.384">Inventory-table</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 1160 433.667 C 1176,423.417 1184,420 1200,420 C 1216,420 1224,423.417 1240,433.667 L 1240,488.333 C 1224,498.583 1216,502 1200,502 C 1184,502 1176,498.583 1160,488.333 L 1160,433.667z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1160 433.667 C 1176,423.417 1184,420 1200,420 C 1216,420 1224,423.417 1240,433.667 L 1240,488.333 C 1224,498.583 1216,502 1200,502 C 1184,502 1176,498.583 1160,488.333 L 1160,433.667"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1160 433.667 C 1176,443.917 1184,447.333 1200,447.333 C 1216,447.333 1224,443.917 1240,433.667"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1200" y="471.833">
+      <tspan x="1200" y="471.833"></tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1150.27" y1="453.916" x2="1104.41" y2="452.734"/>
+    <polygon style="fill: #000000" points="1157.76,454.109 1147.64,458.85 1150.27,453.916 1147.9,448.853 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1157.76,454.109 1147.64,458.85 1150.27,453.916 1147.9,448.853 "/>
+    <polygon style="fill: #000000" points="1096.91,452.541 1107.03,447.8 1104.41,452.734 1106.78,457.797 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1096.91,452.541 1107.03,447.8 1104.41,452.734 1106.78,457.797 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffa500" x="843.047" y="502.044" width="264.5" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="843.047" y="502.044" width="264.5" height="40"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="975.297" y="525.944">
+      <tspan x="975.297" y="525.944">updatePlatformProductFromInventory</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="975.949" y1="479.484" x2="975.578" y2="492.312"/>
+    <polygon style="fill: #000000" points="975.362,499.809 970.653,489.669 975.578,492.312 980.648,489.958 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="975.362,499.809 970.653,489.669 975.578,492.312 980.648,489.958 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="50.7653" y="412.155">
+    <tspan x="50.7653" y="412.155">check24_products</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1137.7" y="407.398">
+    <tspan x="1137.7" y="407.398">check24_inventory</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffa500" x="885.533" y="572.494" width="179.35" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="885.533" y="572.494" width="179.35" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="975.208" y="595.394">
+      <tspan x="975.208" y="595.394">write check24_inventory</tspan>
+      <tspan x="975.208" y="611.394">- table in file</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="975.297" y1="542.044" x2="975.236" y2="562.758"/>
+    <polygon style="fill: #000000" points="975.214,570.258 970.244,560.244 975.236,562.758 980.244,560.273 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="975.214,570.258 970.244,560.244 975.236,562.758 980.244,560.273 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="490.565" y="584.977" width="77.55" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="490.565" y="584.977" width="77.55" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="529.34" y="607.877">
+      <tspan x="529.34" y="607.877">read File</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="529.34" y1="622.977" x2="606.82" y2="674.758"/>
+    <polygon style="fill: #000000" points="613.056,678.925 601.963,677.526 606.82,674.758 607.52,669.212 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="613.056,678.925 601.963,677.526 606.82,674.758 607.52,669.212 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="622.5" y1="221.5" x2="622.807" y2="256.158"/>
+    <polygon style="fill: #000000" points="622.874,263.657 617.785,253.702 622.807,256.158 627.785,253.614 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="622.874,263.657 617.785,253.702 622.807,256.158 627.785,253.614 "/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke-dasharray: 20; stroke: #0000ff" x1="100.435" y1="53.568" x2="99.7338" y2="850.513"/>
+  <text font-size="17.3736" style="fill: #0000ff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="-179.799" y="64.3089">
+    <tspan x="-179.799" y="64.3089">Shopolado CronJob</tspan>
+    <tspan x="-179.799" y="86.0259">Hour: 8,11,17,23</tspan>
+  </text>
+  <g>
+    <path style="fill: #ffffff" d="M 64.3819 582.503 L 143.664,582.503 L 143.664,631.43 C 127.807,623.276 119.879,623.276 104.023,631.43 C 88.1664,639.585 80.2383,639.585 64.3819,631.43 L 64.3819,582.503z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 64.3819 582.503 L 143.664,582.503 L 143.664,631.43 C 127.807,623.276 119.879,623.276 104.023,631.43 C 88.1664,639.585 80.2383,639.585 64.3819,631.43 L 64.3819,582.503"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="104.023" y="606.89">
+      <tspan x="104.023" y="606.89">products</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffa500" x1="213.12" y1="607.49" x2="153.399" y2="607.04"/>
+    <polygon style="fill: #ffa500" points="145.9,606.984 155.937,602.059 153.399,607.04 155.862,612.059 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffa500" points="145.9,606.984 155.937,602.059 153.399,607.04 155.862,612.059 "/>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 1159.88 577.676 L 1239.17,577.676 L 1239.17,626.603 C 1223.31,618.449 1215.38,618.449 1199.53,626.603 C 1183.67,634.758 1175.74,634.758 1159.88,626.603 L 1159.88,577.676z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1159.88 577.676 L 1239.17,577.676 L 1239.17,626.603 C 1223.31,618.449 1215.38,618.449 1199.53,626.603 C 1183.67,634.758 1175.74,634.758 1159.88,626.603 L 1159.88,577.676"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1199.53" y="602.062">
+      <tspan x="1199.53" y="602.062">inventory</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffa500" x1="1064.88" y1="599.494" x2="1150.15" y2="601.869"/>
+    <polygon style="fill: #ffa500" points="1157.65,602.078 1147.51,606.797 1150.15,601.869 1147.79,596.801 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffa500" points="1157.65,602.078 1147.51,606.797 1150.15,601.869 1147.79,596.801 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffa500" points="843.047,522.044 822.047,522.044 822.047,521.854 120,521.854 120,508.746 "/>
+    <polygon style="fill: #ffa500" points="120,501.246 125,511.246 120,508.746 115,511.246 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffa500" points="120,501.246 125,511.246 120,508.746 115,511.246 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-219.817" y="148.372" width="229.2" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-219.817" y="148.372" width="229.2" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-105.217" y="171.272">
+      <tspan x="-105.217" y="171.272">shopolado Cron</tspan>
+      <tspan x="-105.217" y="187.272">createProductsTable</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-155.6" y="236.373" width="104.6" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-155.6" y="236.373" width="104.6" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-103.3" y="259.273">
+      <tspan x="-103.3" y="259.273">delete</tspan>
+      <tspan x="-103.3" y="275.273">products File</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-105.217" y1="202.372" x2="-103.848" y2="226.652"/>
+    <polygon style="fill: #000000" points="-103.426,234.14 -108.981,224.437 -103.848,226.652 -98.997,223.875 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-103.426,234.14 -108.981,224.437 -103.848,226.652 -98.997,223.875 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-215.06" y="424.294" width="229.2" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-215.06" y="424.294" width="229.2" height="70"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-100.46" y="447.194">
+      <tspan x="-100.46" y="447.194">read products</tspan>
+      <tspan x="-100.46" y="463.194">filter product info</tspan>
+      <tspan x="-100.46" y="479.194">update check24_products</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M -357.501 432.318 C -341.501,422.068 -333.501,418.652 -317.501,418.652 C -301.501,418.652 -293.501,422.068 -277.501,432.318 L -277.501,486.985 C -293.501,497.235 -301.501,500.652 -317.501,500.652 C -333.501,500.652 -341.501,497.235 -357.501,486.985 L -357.501,432.318z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M -357.501 432.318 C -341.501,422.068 -333.501,418.652 -317.501,418.652 C -301.501,418.652 -293.501,422.068 -277.501,432.318 L -277.501,486.985 C -293.501,497.235 -301.501,500.652 -317.501,500.652 C -333.501,500.652 -341.501,497.235 -357.501,486.985 L -357.501,432.318"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M -357.501 432.318 C -341.501,442.568 -333.501,445.985 -317.501,445.985 C -301.501,445.985 -293.501,442.568 -277.501,432.318"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-317.501" y="470.485">
+      <tspan x="-317.501" y="470.485"></tspan>
+    </text>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-347.798" y="465.228">
+    <tspan x="-347.798" y="465.228">shopolado</tspan>
+    <tspan x="-347.798" y="481.228">products</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-277.501" y1="452.818" x2="-224.745" y2="458.289"/>
+    <polygon style="fill: #000000" points="-217.285,459.063 -227.747,463.005 -224.745,458.289 -226.715,453.058 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-217.285,459.063 -227.747,463.005 -224.745,458.289 -226.715,453.058 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="14.1396" y1="459.294" x2="50.3242" y2="455.248"/>
+    <polygon style="fill: #000000" points="57.7778,454.415 48.3952,460.495 50.3242,455.248 47.2842,450.557 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="57.7778,454.415 48.3952,460.495 50.3242,455.248 47.2842,450.557 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 63.9316,572.779 A 470.619,470.619 0 0 0 -51.0004,290.373"/>
+    <polygon style="fill: #000000" points="64.3016,580.269 58.9456,570.455 64.0321,572.773 68.9391,570.095 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="64.3016,580.269 58.9456,570.455 64.0321,572.773 68.9391,570.095 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-103.3" y1="290.373" x2="-100.667" y2="414.56"/>
+    <polygon style="fill: #000000" points="-100.508,422.058 -105.719,412.167 -100.667,414.56 -95.721,411.954 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-100.508,422.058 -105.719,412.167 -100.667,414.56 -95.721,411.954 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 20 8 4 8; stroke: #000000" d="M 461.407 437.207 C 462.472,560.237 251.982,513.858 151.887,577.292"/>
+    <polygon style="fill: #000000" points="145.552,581.306 151.323,571.73 151.887,577.292 156.675,580.177 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="145.552,581.306 151.323,571.73 151.887,577.292 156.675,580.177 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 20 8 4 8; stroke: #000000" d="M 813.066 437.776 C 816.465,793.322 987.711,667.266 1150.41,628.841"/>
+    <polygon style="fill: #000000" points="1157.71,627.117 1149.13,634.282 1150.41,628.841 1146.83,624.55 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1157.71,627.117 1149.13,634.282 1150.41,628.841 1146.83,624.55 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 749.791 601.121 C 879.438,601.121 773.623,807.592 1159.88,626.603"/>
+    <polygon style="fill: #000000" points="742.291,601.121 752.291,596.121 749.791,601.121 752.291,606.121 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="742.291,601.121 752.291,596.121 749.791,601.121 752.291,606.121 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 481.249 625.805 C 340.752,668.455 239.669,694.617 143.664,631.43"/>
+    <polygon style="fill: #000000" points="488.426,623.627 480.309,631.316 481.249,625.805 477.404,621.747 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="488.426,623.627 480.309,631.316 481.249,625.805 477.404,621.747 "/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="-101.449" cy="780.9" rx="15" ry="15"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="-101.449" cy="780.9" rx="15" ry="15"/>
+    <ellipse style="fill: #000000" cx="-101.449" cy="780.9" rx="10" ry="10"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-100.46" y1="494.294" x2="-101.413" y2="756.163"/>
+    <polygon style="fill: #000000" points="-101.441,763.663 -106.404,753.645 -101.413,756.163 -96.4044,753.682 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-101.441,763.663 -106.404,753.645 -101.413,756.163 -96.4044,753.682 "/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke-dasharray: 20; stroke: #0000ff" x1="1201.57" y1="61.5165" x2="1200.87" y2="858.462"/>
+  <text font-size="17.3736" style="fill: #0000ff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1360.08" y="61.5598">
+    <tspan x="1360.08" y="61.5598">Shopolado CronJob</tspan>
+    <tspan x="1360.08" y="83.2768">*/17 6-23h</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="1320.06" y="145.623" width="229.2" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1320.06" y="145.623" width="229.2" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1434.66" y="168.523">
+      <tspan x="1434.66" y="168.523">shopolado Cron</tspan>
+      <tspan x="1434.66" y="184.523">updatePriceStock</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1379.79" y="228.893" width="109.35" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1379.79" y="228.893" width="109.35" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1434.47" y="251.793">
+      <tspan x="1434.47" y="251.793">delete</tspan>
+      <tspan x="1434.47" y="267.793">inventory File</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1434.66" y1="199.623" x2="1434.53" y2="219.157"/>
+    <polygon style="fill: #000000" points="1434.48,226.657 1429.55,216.625 1434.53,219.157 1439.55,216.69 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1434.48,226.657 1429.55,216.625 1434.53,219.157 1439.55,216.69 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1379.79" y1="282.893" x2="1243.36" y2="568.889"/>
+    <polygon style="fill: #000000" points="1240.13,575.658 1239.92,564.48 1243.36,568.889 1248.95,568.785 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1240.13,575.658 1239.92,564.48 1243.36,568.889 1248.95,568.785 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1321.07" y="418.905" width="229.2" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1321.07" y="418.905" width="229.2" height="70"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1435.67" y="441.805">
+      <tspan x="1435.67" y="441.805">read products</tspan>
+      <tspan x="1435.67" y="457.805">filter product info</tspan>
+      <tspan x="1435.67" y="473.805">update check24_inventory</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 1604.36 432.876 C 1620.36,422.626 1628.36,419.209 1644.36,419.209 C 1660.36,419.209 1668.36,422.626 1684.36,432.876 L 1684.36,487.542 C 1668.36,497.792 1660.36,501.209 1644.36,501.209 C 1628.36,501.209 1620.36,497.792 1604.36,487.542 L 1604.36,432.876z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1604.36 432.876 C 1620.36,422.626 1628.36,419.209 1644.36,419.209 C 1660.36,419.209 1668.36,422.626 1684.36,432.876 L 1684.36,487.542 C 1668.36,497.792 1660.36,501.209 1644.36,501.209 C 1628.36,501.209 1620.36,497.792 1604.36,487.542 L 1604.36,432.876"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1604.36 432.876 C 1620.36,443.126 1628.36,446.542 1644.36,446.542 C 1660.36,446.542 1668.36,443.126 1684.36,432.876"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1644.36" y="471.042">
+      <tspan x="1644.36" y="471.042"></tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1604.36" y1="453.376" x2="1560" y2="453.81"/>
+    <polygon style="fill: #000000" points="1552.5,453.883 1562.45,448.786 1560,453.81 1562.55,458.785 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1552.5,453.883 1562.45,448.786 1560,453.81 1562.55,458.785 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1434.47" y1="282.893" x2="1435.58" y2="409.17"/>
+    <polygon style="fill: #000000" points="1435.65,416.669 1430.56,406.714 1435.58,409.17 1440.56,406.626 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1435.65,416.669 1430.56,406.714 1435.58,409.17 1440.56,406.626 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1592.66" y="405.136">
+    <tspan x="1592.66" y="405.136">shopolado products</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1311.33" y1="453.937" x2="1249.74" y2="454.135"/>
+    <polygon style="fill: #000000" points="1318.83,453.912 1308.85,458.945 1311.33,453.937 1308.82,448.945 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1318.83,453.912 1308.85,458.945 1311.33,453.937 1308.82,448.945 "/>
+    <polygon style="fill: #000000" points="1242.24,454.159 1252.22,449.127 1249.74,454.135 1252.25,459.127 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1242.24,454.159 1252.22,449.127 1249.74,454.135 1252.25,459.127 "/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1445.74" cy="782.646" rx="15" ry="15"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1445.74" cy="782.646" rx="15" ry="15"/>
+    <ellipse style="fill: #000000" cx="1445.74" cy="782.646" rx="10" ry="10"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1435.67" y1="488.905" x2="1445.39" y2="757.916"/>
+    <polygon style="fill: #000000" points="1445.66,765.411 1440.3,755.598 1445.39,757.916 1450.3,755.237 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1445.66,765.411 1440.3,755.598 1445.39,757.916 1450.3,755.237 "/>
+  </g>
+  <text font-size="18.0622" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="438.032" y="21.6173">
+    <tspan x="438.032" y="21.6173">Product and Invetory flow chart at shopolado</tspan>
+    <tspan x="438.032" y="44.1951">for check24 interface</tspan>
+  </text>
+</svg>

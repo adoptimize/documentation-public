@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="52cm" height="41cm" viewBox="53 54 1028 819" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="66.5427" y="671.915" width="251.428" height="126.975"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="66.5427" y="671.915" width="251.428" height="126.975"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="91.6854" y1="671.915" x2="91.6854" y2="798.89"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="292.828" y1="671.915" x2="292.828" y2="798.89"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="192.257" y="739.403">
+      <tspan x="192.257" y="739.403"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="54.2338" y="434.152" width="391.553" height="194.247"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #0000ff" x="54.2338" y="434.152" width="391.553" height="194.247"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="250.01" y="535.175">
+      <tspan x="250.01" y="535.175"></tspan>
+    </text>
+  </g>
+  <ellipse style="fill: #000000" cx="544.889" cy="163.981" rx="10" ry="10"/>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="138.695" y="91.2513">
+    <tspan x="138.695" y="91.2513">- Products to region and country of origin</tspan>
+    <tspan x="138.695" y="107.251">- Products to a Viticultural Area (VA) (wine area)</tspan>
+    <tspan x="138.695" y="123.251">- Manufacturers to region, VA and country of origin</tspan>
+    <tspan x="138.695" y="139.251"></tspan>
+  </text>
+  <text font-size="17.8252" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="137.988" y="70.7452">
+    <tspan x="137.988" y="70.7452">Assign</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="164.858" y="51.6533">
+    <tspan x="164.858" y="51.6533"></tspan>
+  </text>
+  <g>
+    <polygon style="fill: #ffffff" points="71.0893,236.915 252.013,236.915 239.897,270.204 58.9732,270.204 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="71.0893,236.915 252.013,236.915 239.897,270.204 58.9732,270.204 "/>
+    <text font-size="9.03097" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="155.493" y="256.315">
+      <tspan x="155.493" y="256.315">XX manufacturers without Region</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="856.159,236.713 1010.28,236.713 998.167,270.002 844.043,270.002 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="856.159,236.713 1010.28,236.713 998.167,270.002 844.043,270.002 "/>
+    <text font-size="9.03097" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="927.163" y="256.113">
+      <tspan x="927.163" y="256.113">XX products without Region</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="650.833,236.713 851.257,236.713 839.141,270.002 638.717,270.002 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="650.833,236.713 851.257,236.713 839.141,270.002 638.717,270.002 "/>
+    <text font-size="9.03097" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="744.987" y="256.113">
+      <tspan x="744.987" y="256.113">XX wine-products without wine-region</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="256.773,236.713 459.546,236.713 447.43,270.002 244.657,270.002 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="256.773,236.713 459.546,236.713 447.43,270.002 244.657,270.002 "/>
+    <text font-size="9.03097" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="352.101" y="256.113">
+      <tspan x="352.101" y="256.113">XX manufacturers without wine-region</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="123.777" y="297.919" width="229.15" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="123.777" y="297.919" width="229.15" height="38"/>
+    <text font-size="9.03097" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="238.352" y="319.674">
+      <tspan x="238.352" y="319.674">get_manufacturers_products_with_all_regions</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="160.282,446.998 194.633,478.49 160.282,509.981 125.93,478.49 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="160.282,446.998 194.633,478.49 160.282,509.981 125.93,478.49 "/>
+    <text font-size="9.03097" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="160.282" y="481.245">
+      <tspan x="160.282" y="481.245">VA</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="194.633" y1="478.49" x2="233.652" y2="478.552"/>
+    <polygon style="fill: #000000" points="241.152,478.565 231.144,483.548 233.652,478.552 231.16,473.548 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="241.152,478.565 231.144,483.548 233.652,478.552 231.16,473.548 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="160.282" y1="509.981" x2="148.751" y2="552.847"/>
+    <polygon style="fill: #000000" points="146.803,560.09 144.572,549.134 148.751,552.847 154.229,551.732 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="146.803,560.09 144.572,549.134 148.751,552.847 154.229,551.732 "/>
+  </g>
+  <text font-size="9.03097" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="200.478" y="466.649">
+    <tspan x="200.478" y="466.649">[has VA]</tspan>
+  </text>
+  <text font-size="9.03097" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="109.331" y="510.355">
+    <tspan x="109.331" y="510.355">[No VA]</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="149.435" y1="270.204" x2="229.057" y2="295.021"/>
+    <polygon style="fill: #000000" points="236.217,297.253 225.182,299.051 229.057,295.021 228.158,289.504 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="236.217,297.253 225.182,299.051 229.057,295.021 228.158,289.504 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="346.043" y1="270.002" x2="247.776" y2="295.476"/>
+    <polygon style="fill: #000000" points="240.516,297.358 248.942,290.008 247.776,295.476 251.451,299.688 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="240.516,297.358 248.942,290.008 247.776,295.476 251.451,299.688 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="243.388" y="478.568" width="181.7" height="44.5778"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="243.388" y="478.568" width="181.7" height="44.5778"/>
+    <text font-size="9.03097" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="334.238" y="497.968">
+      <tspan x="334.238" y="497.968">get_product_region_wine_by_string</tspan>
+      <tspan x="334.238" y="509.257">@return array</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="100.084" y="562.249" width="184.55" height="44.5778"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="100.084" y="562.249" width="184.55" height="44.5778"/>
+    <text font-size="9.03097" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="192.359" y="581.649">
+      <tspan x="192.359" y="581.649">get_product_region_by_code</tspan>
+      <tspan x="192.359" y="592.938">@return array</tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #2278cd" x="84.067" y="431.189" width="6.87751" height="6.87751"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="84.067" y="431.189" width="6.87751" height="6.87751"/>
+    </g>
+    <g>
+      <rect style="fill: #22a5cd" x="90.933" y="431.219" width="6.87751" height="6.87751"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="90.933" y="431.219" width="6.87751" height="6.87751"/>
+    </g>
+    <g>
+      <rect style="fill: #11c3f9" x="97.863" y="431.219" width="6.87751" height="6.87751"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="97.863" y="431.219" width="6.87751" height="6.87751"/>
+    </g>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #2278cd" x="380.223" y="623.915" width="6.87751" height="6.87751"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="380.223" y="623.915" width="6.87751" height="6.87751"/>
+    </g>
+    <g>
+      <rect style="fill: #22a5cd" x="387.091" y="623.945" width="6.87751" height="6.87751"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="387.091" y="623.945" width="6.87751" height="6.87751"/>
+    </g>
+    <g>
+      <rect style="fill: #11c3f9" x="394.019" y="623.945" width="6.87751" height="6.87751"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="394.019" y="623.945" width="6.87751" height="6.87751"/>
+    </g>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="202.759" y1="389.828" x2="113.71" y2="427.431"/>
+    <polygon style="fill: #000000" points="106.8,430.349 114.068,421.853 113.71,427.431 117.958,431.065 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="106.8,430.349 114.068,421.853 113.71,427.431 117.958,431.065 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="334.238" y1="523.146" x2="292.28" y2="556.222"/>
+    <polygon style="fill: #000000" points="286.39,560.865 291.148,550.747 292.28,556.222 297.339,558.601 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="286.39,560.865 291.148,550.747 292.28,556.222 297.339,558.601 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="390.154,670.018 426.886,703.692 390.154,737.366 353.421,703.692 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="390.154,670.018 426.886,703.692 390.154,737.366 353.421,703.692 "/>
+    <text font-size="9.03097" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="390.154" y="706.447">
+      <tspan x="390.154" y="706.447"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="101.01" y="681.03" width="184.55" height="44.5778"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="101.01" y="681.03" width="184.55" height="44.5778"/>
+    <text font-size="9.03097" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="193.285" y="706.074">
+      <tspan x="193.285" y="706.074">update_manufacturers_region_wein</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="100.169" y="745.989" width="184.55" height="44.5778"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="100.169" y="745.989" width="184.55" height="44.5778"/>
+    <text font-size="9.03097" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="192.444" y="771.033">
+      <tspan x="192.444" y="771.033">update_manufacturers_region_wein</tspan>
+    </text>
+  </g>
+  <text font-size="9.03097" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="317.802" y="686.117">
+    <tspan x="317.802" y="686.117">[has VA Ids]</tspan>
+  </text>
+  <text font-size="9.03097" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="327.893" y="759.275">
+    <tspan x="327.893" y="759.275">[has reg Ids]</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="371.787" y1="686.855" x2="295.124" y2="701.493"/>
+    <polygon style="fill: #000000" points="287.757,702.899 296.642,696.113 295.124,701.493 298.517,705.935 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="287.757,702.899 296.642,696.113 295.124,701.493 298.517,705.935 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="371.787" y1="720.529" x2="293.256" y2="763.596"/>
+    <polygon style="fill: #000000" points="286.68,767.203 293.044,758.01 293.256,763.596 297.852,766.778 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="286.68,767.203 293.044,758.01 293.256,763.596 297.852,766.778 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="390.53" y1="630.823" x2="390.247" y2="660.283"/>
+    <polygon style="fill: #000000" points="390.175,667.782 385.271,657.735 390.247,660.283 395.271,657.831 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="390.175,667.782 385.271,657.735 390.247,660.283 395.271,657.831 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="284.634" y1="606.827" x2="370.639" y2="622.202"/>
+    <polygon style="fill: #000000" points="378.022,623.522 367.298,626.684 370.639,622.202 369.058,616.84 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="378.022,623.522 367.298,626.684 370.639,622.202 369.058,616.84 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="104.741" y1="438.096" x2="134.914" y2="457.481"/>
+    <polygon style="fill: #000000" points="141.224,461.535 130.109,460.337 134.914,457.481 135.514,451.924 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="141.224,461.535 130.109,460.337 134.914,457.481 135.514,451.924 "/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="426.301" cy="856.851" rx="15" ry="15"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="426.301" cy="856.851" rx="15" ry="15"/>
+    <ellipse style="fill: #000000" cx="426.301" cy="856.851" rx="10" ry="10"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="408.52" y1="720.529" x2="424.889" y2="832.218"/>
+    <polygon style="fill: #000000" points="425.977,839.639 419.579,830.469 424.889,832.218 429.474,829.019 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="425.977,839.639 419.579,830.469 424.889,832.218 429.474,829.019 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="192.257" y1="798.89" x2="401.889" y2="854.361"/>
+    <polygon style="fill: #000000" points="409.139,856.279 398.193,858.555 401.889,854.361 400.751,848.887 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="409.139,856.279 398.193,858.555 401.889,854.361 400.751,848.887 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="529.876" y1="164.435" x2="171.104" y2="235.035"/>
+    <polygon style="fill: #000000" points="163.745,236.483 172.591,229.647 171.104,235.035 174.522,239.459 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="163.745,236.483 172.591,229.647 171.104,235.035 174.522,239.459 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="533.891" y1="168.265" x2="367.232" y2="233.179"/>
+    <polygon style="fill: #000000" points="360.243,235.901 367.746,227.613 367.232,233.179 371.376,236.931 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="360.243,235.901 367.746,227.613 367.232,233.179 371.376,236.931 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="554.889" y1="163.981" x2="923.66" y2="234.875"/>
+    <polygon style="fill: #000000" points="931.025,236.291 920.261,239.313 923.66,234.875 922.149,229.493 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="931.025,236.291 920.261,239.313 923.66,234.875 922.149,229.493 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="554.889" y1="173.981" x2="741.772" y2="233.747"/>
+    <polygon style="fill: #000000" points="748.915,236.032 737.867,237.748 741.772,233.747 740.913,228.223 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="748.915,236.032 737.867,237.748 741.772,233.747 740.913,228.223 "/>
+  </g>
+  <text font-size="9.03097" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="426.278" y="771.889">
+    <tspan x="426.278" y="771.889">[no ids]</tspan>
+  </text>
+  <g>
+    <polygon style="fill: #ffffff" points="237.111,358.336 271.462,389.828 237.111,421.319 202.759,389.828 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="237.111,358.336 271.462,389.828 237.111,421.319 202.759,389.828 "/>
+    <text font-size="9.03097" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="237.111" y="392.583">
+      <tspan x="237.111" y="392.583"></tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="238.352" y1="335.919" x2="237.649" y2="348.615"/>
+    <polygon style="fill: #000000" points="237.234,356.103 232.795,345.842 237.649,348.615 242.779,346.395 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="237.234,356.103 232.795,345.842 237.649,348.615 242.779,346.395 "/>
+  </g>
+  <text font-size="9.03097" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="111.951" y="396.942">
+    <tspan x="111.951" y="396.942">[has products]</tspan>
+  </text>
+  <text font-size="9.03097" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="290.221" y="373.608">
+    <tspan x="290.221" y="373.608">[no products]</tspan>
+  </text>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 271.462 389.828 C 629.943,322.944 509.695,830.845 450.401,853.391"/>
+    <polygon style="fill: #000000" points="443.391,856.056 450.961,847.829 450.401,853.391 454.515,857.176 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="443.391,856.056 450.961,847.829 450.401,853.391 454.515,857.176 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="791.386" y="299.684" width="103.25" height="33.2889"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="791.386" y="299.684" width="103.25" height="33.2889"/>
+    <text font-size="9.03097" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="843.011" y="319.084">
+      <tspan x="843.011" y="319.084">get_manufacturer</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="848.442,359.387 882.794,390.879 848.442,422.37 814.09,390.879 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="848.442,359.387 882.794,390.879 848.442,422.37 814.09,390.879 "/>
+    <text font-size="9.03097" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="848.442" y="393.634">
+      <tspan x="848.442" y="393.634"></tspan>
+    </text>
+  </g>
+  <text font-size="9.03097" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="780.295" y="381.924">
+    <tspan x="780.295" y="381.924">[has VA]</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" x1="772.498" y1="271.007" x2="809.003" y2="294.427"/>
+    <polygon style="fill: #00ff00" points="815.316,298.476 804.199,297.285 809.003,294.427 809.599,288.868 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" points="815.316,298.476 804.199,297.285 809.003,294.427 809.599,288.868 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" x1="817.198" y1="332.973" x2="841.007" y2="353.102"/>
+    <polygon style="fill: #00ff00" points="846.734,357.944 835.869,355.306 841.007,353.102 842.326,347.669 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" points="846.734,357.944 835.869,355.306 841.007,353.102 842.326,347.669 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="640.024" y="376.205" width="129.25" height="33.2889"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="640.024" y="376.205" width="129.25" height="33.2889"/>
+    <text font-size="9.03097" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="704.649" y="395.605">
+      <tspan x="704.649" y="395.605">update product with VA</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" x1="814.09" y1="390.879" x2="779.001" y2="392.422"/>
+    <polygon style="fill: #00ff00" points="771.508,392.752 781.279,387.317 779.001,392.422 781.718,397.307 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" points="771.508,392.752 781.279,387.317 779.001,392.422 781.718,397.307 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0000ff" x1="921.105" y1="270.002" x2="877.29" y2="294.877"/>
+    <polygon style="fill: #0000ff" points="870.768,298.58 876.995,289.295 877.29,294.877 881.933,297.991 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0000ff" points="870.768,298.58 876.995,289.295 877.29,294.877 881.933,297.991 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0000ff" x1="868.823" y1="332.973" x2="854.389" y2="351.679"/>
+    <polygon style="fill: #0000ff" points="849.808,357.617 851.958,346.645 854.389,351.679 859.875,352.754 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0000ff" points="849.808,357.617 851.958,346.645 854.389,351.679 859.875,352.754 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="848.442" y1="422.37" x2="849.939" y2="468.148"/>
+    <polygon style="fill: #000000" points="850.184,475.644 844.86,465.813 849.939,468.148 854.855,465.486 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="850.184,475.644 844.86,465.813 849.939,468.148 854.855,465.486 "/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="851.794" cy="495.056" rx="15" ry="15"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="851.794" cy="495.056" rx="15" ry="15"/>
+    <ellipse style="fill: #000000" cx="851.794" cy="495.056" rx="10" ry="10"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" x1="704.649" y1="409.494" x2="828.622" y2="489.764"/>
+    <polygon style="fill: #00ff00" points="834.917,493.841 823.805,492.603 828.622,489.764 829.241,484.209 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" points="834.917,493.841 823.805,492.603 828.622,489.764 829.241,484.209 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="934.547" y="374.793" width="145.65" height="33.2889"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="934.547" y="374.793" width="145.65" height="33.2889"/>
+    <text font-size="9.03097" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1007.37" y="394.193">
+      <tspan x="1007.37" y="394.193">update product with region</tspan>
+    </text>
+  </g>
+  <text font-size="9.03097" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="876.157" y="371.262">
+    <tspan x="876.157" y="371.262">[has region]</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0000ff" x1="882.794" y1="390.879" x2="924.811" y2="391.333"/>
+    <polygon style="fill: #0000ff" points="932.311,391.414 922.258,396.305 924.811,391.333 922.366,386.306 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0000ff" points="932.311,391.414 922.258,396.305 924.811,391.333 922.366,386.306 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0000ff" x1="1007.37" y1="408.082" x2="875.074" y2="489.933"/>
+    <polygon style="fill: #0000ff" points="868.696,493.879 874.569,484.366 875.074,489.933 879.83,492.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0000ff" points="868.696,493.879 874.569,484.366 875.074,489.933 879.83,492.87 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" x1="574.444" y1="607.436" x2="456.26" y2="579.692"/>
+    <polygon style="fill: #ff0000" points="448.958,577.978 459.836,575.396 456.26,579.692 457.551,585.131 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" points="448.958,577.978 459.836,575.396 456.26,579.692 457.551,585.131 "/>
+  </g>
+  <text font-size="9.03097" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="578.648" y="610.8">
+    <tspan x="578.648" y="610.8">a matching algo counts the number of matches</tspan>
+    <tspan x="578.648" y="622.089">a region search in the DB has and either exact</tspan>
+    <tspan x="578.648" y="633.378">machtes or matches with have exceptionally more</tspan>
+    <tspan x="578.648" y="644.666">points than other matches within the search</tspan>
+  </text>
+</svg>
