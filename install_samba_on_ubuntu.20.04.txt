@@ -3,9 +3,9 @@
 # update: Mon Jun 27 12:50:00     2022 Mathias E. Koch  <mk@adoptimize.de>
 # 
 #
-############################################################
-# HOW SAMBA IS USED, INSTALLED AND ACTIVATED ON REBOOT
-############################################################
+###########################################################################################
+# HOW SAMBA IS USED, INSTALLED AND ACTIVATED ON REBOOT on UBUNTU 20.04 (client + server)
+###########################################################################################
 
 1. SAMBA SERVER -- Enter the new mountpoint / samba share directory in samba conf at the bottm on the server
   we us 101 - static server for our sambaserver who is the source of the files
